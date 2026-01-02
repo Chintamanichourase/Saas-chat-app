@@ -8,7 +8,7 @@ firebase/
 
 # testing
 /coverage
-
+saas-app-803af-firebase-adminsdk-fbsvc-*.json
 # next.js
 /.next/
 /out/
